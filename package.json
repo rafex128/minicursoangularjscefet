@@ -1,0 +1,22 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "Criando um \"Instagram\" web usando AngularJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafex128/minicursoangularjscefet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafex128/minicursoangularjscefet/issues"
+  },
+  "homepage": "https://github.com/rafex128/minicursoangularjscefet",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
